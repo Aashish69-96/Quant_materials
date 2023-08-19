@@ -9,3 +9,8 @@ brainteaser: https://brainstellar.com/
 
 
 
+Machine-Learning Notes/Data science notes
+
+ML:https://github.com/Aashish69-96/Machine_Learning_Notes
+
+DS:https://github.com/Aashish69-96/DataScience-StudyMaterial
