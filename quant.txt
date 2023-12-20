@@ -1,4 +1,4 @@
-                    /*********Quant the richy**********/
+                    /*********Quant **********/
 
 
 
@@ -6,16 +6,3 @@
 code evaluation system:   https://cses.fi/
 interview:  https://www.interviewbit.com/puzzles/
 brainteaser: https://brainstellar.com/
-
-
-
-
-
-
-Job seeking platforms 
-
-Instahyre https://www.instahyre.com/
-wellfound: wellfound.com
-Naukri https://www.naukri.com/
-LinkedIn https://www.linkedin.com/
-Turing https://turing.com/
